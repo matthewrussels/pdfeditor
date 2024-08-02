@@ -1,6 +1,6 @@
 # PDFeditor.ca
 
-Welcome to PDFeditor.ca, your comprehensive solution for all PDF editing needs. With over 70 powerful PDF tools, our platform enables you to manage, edit, convert, and secure your PDF documents effortlessly.
+Welcome to [PDFeditor.ca](https://pdfeditor.ca), your comprehensive solution for all PDF editing needs. With over 70 powerful PDF tools, our platform enables you to manage, edit, convert, and secure your PDF documents effortlessly.
 
 ## Features
 
