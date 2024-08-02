@@ -6,7 +6,7 @@ Welcome to PDFeditor.ca, your comprehensive solution for all PDF editing needs. 
 
 Features
 
-Over 70 PDF Tools: Including merging, splitting, compressing, converting (PDF to Excel, Word, PowerPoint, etc.), OCR, and more.
+Over 70 PDF Tools: Including merging, splitting, compressing, converting (PDF to Excel, PDF to Word, PowerPoint to PDF, Word to PDF, etc.), OCR, and more.
 Secure and Private: Your files are securely handled and automatically deleted after processing.
 High Performance: Optimized to handle high traffic with a robust server setup.
 
